@@ -1,4 +1,4 @@
-package com.pepinho.dailycafe
+package local.sanclemente.dailycafe.db
 
 import androidx.room.Dao
 import androidx.room.Insert

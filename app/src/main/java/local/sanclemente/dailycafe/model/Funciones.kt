@@ -3,7 +3,7 @@ package local.sanclemente.dailycafe.model
 import android.graphics.BitmapFactory
 import android.widget.EditText
 import android.widget.ImageView
-import com.pepinho.dailycafe.R
+import local.sanclemente.dailycafe.R
 
 fun ImageView.setImageFromBytes(imageBytes: ByteArray?) {
     if (imageBytes != null) {

@@ -9,7 +9,6 @@ import androidx.core.view.WindowInsetsCompat
 // Corrutinas: para que las consultas a la base de datos se hagan en un hilo secundario
 // (sin bloquear la interfaz de usuario)
 import androidx.lifecycle.lifecycleScope
-import com.pepinho.dailycafe.R
 import kotlinx.coroutines.launch
 
 // Importaciones del modelo y para asignar imágenes a partir de array de bytes

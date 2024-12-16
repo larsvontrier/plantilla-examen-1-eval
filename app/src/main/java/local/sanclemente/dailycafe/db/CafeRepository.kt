@@ -2,7 +2,6 @@ package local.sanclemente.dailycafe.db
 
 import android.content.Context
 import androidx.room.Room
-import com.pepinho.dailycafe.CafeDatabase
 import local.sanclemente.dailycafe.model.Cafe
 
 private const val NOMBRE_BASE_DATOS = "starbuckscaffee.db"

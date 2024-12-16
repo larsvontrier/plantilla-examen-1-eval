@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.pepinho.dailycafe"
+    namespace = "local.sanclemente.dailycafe"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.pepinho.dailycafe"
+        applicationId = "local.sanclemente.dailycafe"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
